@@ -1,0 +1,4 @@
+.DS_Store
+/data
+./main/__pycache__
+/Processed_Games
